@@ -1,6 +1,14 @@
-<div align: center">
-  <img src="img/1.png" alt="Card" style="max-width:100%; height:auto;">
-</div>
+<div align="center">
+  <img src="img/3.png" alt="Card" style="max-width:100%; height:auto;">
+
+<a href="https://github.com/SINMOR">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/morris-sindet">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+
+
 
 ---
 
@@ -39,8 +47,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morris-sindet/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@morris-sindet)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://medium.com/@morris-sindet)
-[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://medium.com/@morris-sindet)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DEVSINMOR)
+[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sindet_)
 
 <p>
 <a href="https://dev.to/sindet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sindet_" height="30" width="40" /></a>
@@ -62,3 +70,5 @@
 <p align=center>><img
   src="https://wakatime.com/share/@DEV8/32c24f88-9683-4a36-b2b8-894df88e6e00.svg" height="400"
 /></p>
+
+</div>
