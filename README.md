@@ -1,6 +1,6 @@
-<div align="center">
-<img src="img/1.png">
-
+<div style="text-align:center;">
+  <img src="img/1.png" alt="Card" style="max-width:100%; height:auto;">
+</div>
 
 ---
 
@@ -9,6 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinmor&label=Profile%20views&color=0e75b6&style=flat" alt="sinmor" /> </p>
 
+ 
 - 🔭 I’m currently working on **Personal Portfolio Projects**
 
 - 🌱 I’m currently learning **Python,SQL,Hadoop,Scala,Power Bi,Tableau,Streamlit,**
@@ -23,24 +24,27 @@
 
 - 📫 How to reach me **morrisindet@gmail.com**
 
+---
+
 ## 📝 Top Blog Posts
+  
 <!-- BLOG-POST-LIST:START -->
 -   [Python EDA Techniques ](https://medium.com/@morrisindet/10-mind-blowing-data-insights-unlocked-by-pythons-eda-techniques-a018858eb505)
 -   [Beginner Guide to SQL ](https://medium.com/@morrisindet/unlock-your-data-a-beginners-guide-to-sql-for-data-analysis-f4b06201da)
 
 <!-- BLOG-POST-LIST:END -->
+</p>
 
 ---
 
-<img src="img/connect.png">
-
+<p align=center><img src="img/connect.png"></p>
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morris-sindet/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@morris-sindet)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://medium.com/@morris-sindet)
 [![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://medium.com/@morris-sindet)
 
- 
-<p align="center">
+<p>
 <a href="https://dev.to/sindet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sindet_" height="30" width="40" /></a>
 <a href="https://twitter.com/devsinmor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsinmor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/morris-sindet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morris-sindet" height="30" width="40" /></a>
@@ -55,11 +59,8 @@
 
 ---
 <img src="img/statistics.png">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinmor&show_icons=true&locale=en&layout=compact" alt="sinmor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinmor&" alt="sinmor" /></p>
-
-
-<img
+<p align=center><img alt="Morris's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=sinmor&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
+  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinmor&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286"></p>
+<p align=center>><img
   src="https://wakatime.com/share/@DEV8/32c24f88-9683-4a36-b2b8-894df88e6e00.svg" height="400"
-/>
+/></p>
