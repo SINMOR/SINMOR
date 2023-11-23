@@ -1,26 +1,26 @@
-<div style="text-align:center;">
+<div align: center">
   <img src="img/1.png" alt="Card" style="max-width:100%; height:auto;">
 </div>
 
 ---
 
 <img src="img/hi_there.png">
-<h3 align="center">Im an aspiring Data analyst/Data Engineer currently learning Python,SQL,PowerBi,Java,Machine Learning</h3>
+<h3 align="center"> My name is Morris Sindet I am an aspiring Data analyst/Data Engineer currently learning Python, SQL, PowerBi, Java, and Machine Learning</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinmor&label=Profile%20views&color=0e75b6&style=flat" alt="sinmor" /> </p>
 
  
 - 🔭 I’m currently working on **Personal Portfolio Projects**
 
-- 🌱 I’m currently learning **Python,SQL,Hadoop,Scala,Power Bi,Tableau,Streamlit,**
+- 🌱 I’m currently learning **Python, SQL, Hadoop, Scala, Power Bi, Tableau, Streamlit,**
 
-- 👯 I’m looking to collaborate on **Data science & Data analyst projects**
+- 👯 I’m looking to collaborate on **Data Science & Data analyst projects**
 
 - 🤝 I’m looking for help with **mentorship**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@morrisindet) and [DEV.TO](https://dev.to/sindet_)
 
-- 💬 Ask me about **SQL,Streamlit,Power Bi ,Tableau,Big Data**
+- 💬 Ask me about **SQL, Streamlit, Power Bi, Tableau, Big Data**
 
 - 📫 How to reach me **morrisindet@gmail.com**
 
@@ -31,9 +31,7 @@
 <!-- BLOG-POST-LIST:START -->
 -   [Python EDA Techniques ](https://medium.com/@morrisindet/10-mind-blowing-data-insights-unlocked-by-pythons-eda-techniques-a018858eb505)
 -   [Beginner Guide to SQL ](https://medium.com/@morrisindet/unlock-your-data-a-beginners-guide-to-sql-for-data-analysis-f4b06201da)
-
 <!-- BLOG-POST-LIST:END -->
-</p>
 
 ---
 
